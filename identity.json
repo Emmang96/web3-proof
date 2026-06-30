@@ -1,0 +1,6 @@
+{
+  "wallet_address": "0x6aa32432945e625cd9cff5bf715ac47e415814d0",
+  "network": "Ethereum Sepolia Testnet",
+  "transaction_hash": "0xf77743db303eeb96a0e8ce3fa55ffc797a460ac4045ee816e882256e698c0358",
+  "activity": "Deployed MyToken.sol smart contract"
+}
